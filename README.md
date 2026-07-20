@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0035-search-insert-position/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +59,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
