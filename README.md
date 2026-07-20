@@ -11,4 +11,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0035-search-insert-position/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
