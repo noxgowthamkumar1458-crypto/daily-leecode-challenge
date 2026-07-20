@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
