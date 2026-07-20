@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,8 +89,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0113-path-sum-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
