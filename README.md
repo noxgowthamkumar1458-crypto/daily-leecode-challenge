@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0120-triangle/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +121,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0120-triangle/) | Medium |
 <!---LeetCode Topics End-->
