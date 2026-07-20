@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0118-pascals-triangle/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +117,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
