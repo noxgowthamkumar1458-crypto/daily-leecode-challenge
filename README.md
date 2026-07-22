@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0704-binary-search/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,10 +152,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
