@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Prefix Sum
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
