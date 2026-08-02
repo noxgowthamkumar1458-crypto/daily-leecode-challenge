@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0705-design-hashset/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0414-third-maximum-number/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
