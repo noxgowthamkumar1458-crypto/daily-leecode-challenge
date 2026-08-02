@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0705-design-hashset/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0705-design-hashset](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0705-design-hashset/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0705-design-hashset](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0705-design-hashset/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +197,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
