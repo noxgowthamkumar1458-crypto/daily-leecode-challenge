@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
