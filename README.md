@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1323-maximum-69-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1323-maximum-69-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1323-maximum-69-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1323-maximum-69-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Prefix Sum
