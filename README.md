@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0198-house-robber](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
