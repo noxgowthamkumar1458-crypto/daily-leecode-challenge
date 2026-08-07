@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1323-maximum-69-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/noxgowthamkumar1458-crypto/daily-leecode-challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
